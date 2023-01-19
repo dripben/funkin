@@ -1,9 +1,9 @@
 {
 	"song": {
-		"player1": "bf-run",
+		"player1": "bf",
 		"sectionLengths": [],
-		"gfVersion": "gf-run",
-		"player2": "hellron",
+		"gfVersion": "gf",
+		"player2": "dad",
 		"notes": [
 			{
 				"typeOfSection": 0,
@@ -12169,11 +12169,11 @@
 			}
 		],
 		"player3": "gf",
-		"song": "Bleeding",
+		"song": "Bopeebo",
 		"validScore": true,
 		"sections": 0,
 		"needsVoices": true,
-		"stage": "hell",
+		"stage": "stage",
 		"bpm": 200,
 		"speed": 4.99999999999999
 	}
